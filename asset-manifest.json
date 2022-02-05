@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/prudnikproject/static/css/main.24cebc71.chunk.css",
+    "main.js": "/prudnikproject/static/js/main.abd8b8a8.chunk.js",
+    "main.js.map": "/prudnikproject/static/js/main.abd8b8a8.chunk.js.map",
+    "runtime-main.js": "/prudnikproject/static/js/runtime-main.ec50fc2d.js",
+    "runtime-main.js.map": "/prudnikproject/static/js/runtime-main.ec50fc2d.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/prudnikproject/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.a2b194a7.chunk.js": "/prudnikproject/static/js/2.a2b194a7.chunk.js",
+    "static/js/2.a2b194a7.chunk.js.map": "/prudnikproject/static/js/2.a2b194a7.chunk.js.map",
+    "index.html": "/prudnikproject/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/prudnikproject/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.24cebc71.chunk.css.map": "/prudnikproject/static/css/main.24cebc71.chunk.css.map",
+    "static/js/2.a2b194a7.chunk.js.LICENSE.txt": "/prudnikproject/static/js/2.a2b194a7.chunk.js.LICENSE.txt",
+    "static/media/brain.5a66d547.png": "/prudnikproject/static/media/brain.5a66d547.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec50fc2d.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.a2b194a7.chunk.js",
+    "static/css/main.24cebc71.chunk.css",
+    "static/js/main.abd8b8a8.chunk.js"
+  ]
+}
