@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/MagicBrain/static/css/main.24cebc71.chunk.css",
-    "main.js": "/MagicBrain/static/js/main.a1947193.chunk.js",
-    "main.js.map": "/MagicBrain/static/js/main.a1947193.chunk.js.map",
+    "main.js": "/MagicBrain/static/js/main.96b99fae.chunk.js",
+    "main.js.map": "/MagicBrain/static/js/main.96b99fae.chunk.js.map",
     "runtime-main.js": "/MagicBrain/static/js/runtime-main.d5c1cd38.js",
     "runtime-main.js.map": "/MagicBrain/static/js/runtime-main.d5c1cd38.js.map",
     "static/css/2.6d7c7915.chunk.css": "/MagicBrain/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.d18acdf5.chunk.js": "/MagicBrain/static/js/2.d18acdf5.chunk.js",
-    "static/js/2.d18acdf5.chunk.js.map": "/MagicBrain/static/js/2.d18acdf5.chunk.js.map",
+    "static/js/2.39e2e347.chunk.js": "/MagicBrain/static/js/2.39e2e347.chunk.js",
+    "static/js/2.39e2e347.chunk.js.map": "/MagicBrain/static/js/2.39e2e347.chunk.js.map",
     "index.html": "/MagicBrain/index.html",
     "static/css/2.6d7c7915.chunk.css.map": "/MagicBrain/static/css/2.6d7c7915.chunk.css.map",
     "static/css/main.24cebc71.chunk.css.map": "/MagicBrain/static/css/main.24cebc71.chunk.css.map",
-    "static/js/2.d18acdf5.chunk.js.LICENSE.txt": "/MagicBrain/static/js/2.d18acdf5.chunk.js.LICENSE.txt",
+    "static/js/2.39e2e347.chunk.js.LICENSE.txt": "/MagicBrain/static/js/2.39e2e347.chunk.js.LICENSE.txt",
     "static/media/brain.5a66d547.png": "/MagicBrain/static/media/brain.5a66d547.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d5c1cd38.js",
     "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.d18acdf5.chunk.js",
+    "static/js/2.39e2e347.chunk.js",
     "static/css/main.24cebc71.chunk.css",
-    "static/js/main.a1947193.chunk.js"
+    "static/js/main.96b99fae.chunk.js"
   ]
 }
