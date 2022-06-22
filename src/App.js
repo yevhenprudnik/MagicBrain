@@ -10,7 +10,7 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition'
 import SignIn from './components/SignIn/SignIn';
 import Register from './components/Register/Register';
 const app = new Clarifai.App({
-  apiKey: '5e5773701a044e96b13d77721a05c38b'
+  apiKey: '11da1cf08dab485490605f92c1f3fe68'
 });
 
 const particlesOptions = {
